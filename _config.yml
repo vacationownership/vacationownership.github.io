@@ -1,2 +1,4 @@
 # Site settings
 title: Vacation Ownerships
+
+theme: jekyll-theme-modernist
